@@ -11,7 +11,7 @@
 
 ## Usage
 * git clone or download zip file of this repository
-* download Aligned & Cropped version of UTKFace fro [here](https://drive.google.com/drive/folders/0BxYys69jI14kU0I1YUQyY1ZDRUE)
+* download Aligned & Cropped version of UTKFace from [here](https://drive.google.com/drive/folders/0BxYys69jI14kU0I1YUQyY1ZDRUE)
 * execute main.py in bash
 > python main.py
 
