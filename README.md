@@ -12,10 +12,12 @@
 ## Results
 
 **UTKFace**
-> rows: years of  0~5, 5~10, 10~15, 16~20, 21~30, 31~40, 41~50, 51~60, 61~70, over 70  
+> rows: years of  0 ~ 5, 5 ~ 10, 10 ~ 15, 16 ~ 20, 21 ~ 30, 31 ~ 40, 41 ~ 50, 51 ~ 60, 61 ~ 70, over 70  
 
 <a href="https://imgur.com/7auIthg"><img src="https://i.imgur.com/7auIthg.png" title="source: imgur.com" /></a>
 
+<br></br>
+
 **Irene, Korean Celebrity**
->
+
 <a href="https://imgur.com/dPpWVf5"><img src="https://i.imgur.com/dPpWVf5.png" title="source: imgur.com" /></a>
