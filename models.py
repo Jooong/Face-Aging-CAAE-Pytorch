@@ -69,8 +69,8 @@ class Generator(nn.Module):
 
     def forward(self,z,age,gender):
         ## duplicate age & gender conditions as descripted in https://github.com/ZZUTK/Face-Aging-CAAE
-        l = age.repeat(1,n_age)
-        k = gender.view(-1,1).repeat(1,n_gender)
+        l = age.repeat(1,n_age).float()
+        k = gender.view(-1,1).repeat(1,n_gender).float()
 
         x = torch.cat([z,l,k],dim=1)
         fc = self.fc(x).view(-1,16*n_gen,8,8)
